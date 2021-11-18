@@ -14,6 +14,6 @@ For preprocessing i have conducted the following:
 * generated bigrams in the data
 * applied lemmatization for (Adverbs and ADjectives only) since that's the best strategy with our data
 
-# Finally i reached the below is results
+Finally i reached the below results
 
 <img width="904" alt="Word 2vec results" src="https://user-images.githubusercontent.com/67180181/142373913-78a64135-8d98-4fdc-b14a-964c734c05bc.png">
