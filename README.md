@@ -12,7 +12,6 @@ For preprocessing i have conducted the following:
 * Adjusted punctuation
 * Removed stop words
 * generated bigrams in the data
-* applied lemmatization for (Adverbs and ADjectives only) since that's the best strategy with our data
 
 # Result
 Finally i reached the below results
